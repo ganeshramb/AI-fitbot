@@ -12,7 +12,6 @@ This is a web application with followng features:
 - Contains a music playlist to pump up your workout regime.
 - Also contains a podcast playlist(for guidance and motivation)
   
-https://github.com/Chandan-h-509/AI-Fitness-Trainer/assets/76171489/e502f9d4-8a82-47da-9637-41df30f594ba
 
 ## Training Arena
 Here's where the fun begins. You get to choose the excercise which you want to perform and our model tracks your form and reps.
