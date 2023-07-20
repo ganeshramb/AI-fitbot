@@ -42,8 +42,8 @@ Finally, a chatbot is also integrated which answers questions on fitness and fit
 - Make sure to put in your email id to allow form submission.(Change to be made in 1_🏠_Home.py file)
 
 
-streamlit run 1_🏠_Home.py
 ```
 Feel free to raise any issues/bugs/suggestions in the issues page of this repository.
 
 Thank You!!
+
