@@ -41,17 +41,7 @@ Finally, a chatbot is also integrated which answers questions on fitness and fit
 - Make sure to use your OpenAi API key to enable the chatbot.(Change to be made in 4_🤖_Chatbot.py file)
 - Make sure to put in your email id to allow form submission.(Change to be made in 1_🏠_Home.py file)
 
-## How to run
-- Clone the repository
-```
-git clone https://github.com/Chandan-h-509/AI-Fitness-Trainer
-```
-- Go to the models directory
-```
-cd models
-```
-- Run the website
-```
+
 streamlit run 1_🏠_Home.py
 ```
 Feel free to raise any issues/bugs/suggestions in the issues page of this repository.
